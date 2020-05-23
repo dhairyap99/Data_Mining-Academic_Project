@@ -16,4 +16,4 @@ The functional modules implemented for analysis with brief description of each:
 
 **Referenced Data:** We will be using an existing data set called the “Pima Indians Diabetes Database” provided by the UCI Machine Learning Repository. Its formatted as diabetes.csv (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
-**Product:** We have attempted to build an application which can predict if given any symptoms, has diabetes or not
+**Product:** We have build an application which can predict if given any symptoms, has diabetes or not
