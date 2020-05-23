@@ -9,12 +9,10 @@ The functional modules implemented for analysis with brief description of each:
 - Blood Pressure: The amount of Blood Pressure of test subject (mmHG)
 - Skin Thickness: The thickness of skin of test subject (mm)
 - Insulin: The amount of insulin present in the body
-- BMI: The body to mass ratio of test subject(kg/m2)
+- BMI: The body to mass ratio of test subject (kg/m2)
 - Diabetes Pedigree Function: The function which will score the likelihood of Diabetes based on Family History
 - Age: The age of test subject (in Years)
--	Outcome (Result): The outcome of the entire attribute taken in consideration
-  -1 representing the subject has Diabetes
-  -0 representing the subject doesn’t have Diabetes
+-	Outcome (Result): The outcome of the entire attribute taken in consideration: '1' representing the subject has Diabetes and '0' representing the subject doesn’t have Diabetes
 
 **Referenced Data:** We will be using an existing data set called the “Pima Indians Diabetes Database” provided by the UCI Machine Learning Repository. Its formatted as diabetes.csv
 
