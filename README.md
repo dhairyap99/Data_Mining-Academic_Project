@@ -13,9 +13,9 @@ The functional modules implemented for analysis with brief description of each:
 - Diabetes Pedigree Function: The function which will score the likelihood of Diabetes based on Family History
 - Age: The age of test subject (in Years)
 -	Outcome (Result): The outcome of the entire attribute taken in consideration
-  *	1 representing the subject has Diabetes
-  *	0 representing the subject doesn’t have Diabetes
+  -1 representing the subject has Diabetes
+  -0 representing the subject doesn’t have Diabetes
 
-Referenced Data: We will be using an existing data set called the “Pima Indians Diabetes Database” provided by the UCI Machine Learning Repository. Its formatted as diabetes.csv
+**Referenced Data:** We will be using an existing data set called the “Pima Indians Diabetes Database” provided by the UCI Machine Learning Repository. Its formatted as diabetes.csv
 
-Product: We have attempted to build an application which can predict if given any symptoms, has diabetes or not
+**Product:** We have attempted to build an application which can predict if given any symptoms, has diabetes or not
